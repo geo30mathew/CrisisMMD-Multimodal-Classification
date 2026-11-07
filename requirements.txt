@@ -1,0 +1,17 @@
+numpy
+pandas
+scipy
+scikit-learn
+torch
+torchvision
+transformers
+datasets
+huggingface-hub
+accelerate
+Pillow
+matplotlib
+seaborn
+joblib
+tqdm
+jupyter
+ipykernel
